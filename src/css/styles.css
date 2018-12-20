@@ -1401,8 +1401,10 @@ h2.recent-work-h2 {
   color: #214b90; }
 
 img.recent-work-img {
-  width: 185px;
-  height: 139px; }
+  display: block;
+  margin: 0 auto 15px auto;
+  width: 185px !important;
+  height: 139px !important; }
 
 table.get-started {
   width: 100%; }
@@ -1426,6 +1428,9 @@ p.footer-p {
   font-size: 12px !important; }
   p.footer-p a.footer-a {
     text-decoration: underline; }
+
+.social-main a {
+  display: inline-block; }
 
 a#my-btn {
   padding: 10px 18px;
