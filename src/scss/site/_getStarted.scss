@@ -1,0 +1,32 @@
+table.get-started {
+  width: 100%;
+  h2 {
+    text-transform: uppercase;
+    color: $header;
+  }
+
+  a.get-started-a {
+    padding: 16px 22px;
+    text-transform: uppercase;
+    color: $white;
+    background: $green;
+    border-radius: 18px;
+  }
+
+
+}
+
+p.get-started-p {
+  margin-bottom: 0 !important;
+}
+
+.get-started-container {
+  border-bottom: 1px solid $recent;
+}
+
+p.footer-p {
+  font-size: 12px !important;
+  a.footer-a {
+    text-decoration: underline;
+  }
+}

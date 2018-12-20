@@ -1400,6 +1400,33 @@ h2.recent-work-h2 {
   font-weight: bold;
   color: #214b90; }
 
+img.recent-work-img {
+  width: 185px;
+  height: 139px; }
+
+table.get-started {
+  width: 100%; }
+  table.get-started h2 {
+    text-transform: uppercase;
+    color: #214b90; }
+  table.get-started a.get-started-a {
+    padding: 16px 22px;
+    text-transform: uppercase;
+    color: #fefefe;
+    background: #76ae29;
+    border-radius: 18px; }
+
+p.get-started-p {
+  margin-bottom: 0 !important; }
+
+.get-started-container {
+  border-bottom: 1px solid #ececec; }
+
+p.footer-p {
+  font-size: 12px !important; }
+  p.footer-p a.footer-a {
+    text-decoration: underline; }
+
 a#my-btn {
   padding: 10px 18px;
   font-size: 15px;
